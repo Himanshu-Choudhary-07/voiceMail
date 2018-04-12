@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VoiceMail</string>
+    <string name="welcome_to_voicemail">Welcome to VoiceMail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="code">Code</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="information_the_standard_rates_will_apply_for_sending_message">Information: The standard rates will apply for sending message.</string>
+    <string name="send_verfication_code">SEND VERFICATION CODE</string>
+    <string name="code_error">Error in code. Please check again.</string>
+    <string name="error">Information: Error while verifying your number.ENTER YOUR NUMBER WITH COUNTRY CODE. or try again later.</string>
+    <string name="voice_image">voice image</string>
+    <string name="text">Press and hold the button to record voice</string>
+</resources>
